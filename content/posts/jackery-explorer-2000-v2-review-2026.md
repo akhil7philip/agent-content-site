@@ -128,12 +128,12 @@ The 94 % peak efficiency is competitive with the Anker C1000 Gen 2 and slightly 
 
 | Port | Spec | Tested With | Result |
 |------|------|-------------|--------|
-| **AC outlets (×3)** | 120 V, 2,000 W continuous / 4,000 W surge | Fridge, heater, microwave | All simultaneously stable up to 2,000 W combined |
-| **USB-C (×2)** | 100 W PD each | MacBook Pro 16", Dell XPS 15 | 96 W sustained; no thermal throttling |
+| **AC outlets (×2)** | 120 V, 2,200 W continuous / 4,400 W surge | Fridge, heater, microwave | All simultaneously stable up to 2,200 W combined |
+| **USB-C (×2)** | 100 W PD + 30 W PD | MacBook Pro 16", Dell XPS 15 | 96 W / 28 W sustained; no thermal throttling |
 | **USB-A (×2)** | 18 W QC 3.0 | iPhone 15, Galaxy S24 | Full-speed charging |
 | **Car outlet (×1)** | 12 V, 10 A | Portable cooler, air pump | 120 W sustained; no voltage sag |
 
-**Missing:** There is no 140 W USB-C PD 3.1 port. The Anker C1000 Gen 2 and some competitors offer this for the latest MacBook Pros. If you need 140 W laptop charging, the Jackery caps at 100 W per port. For most users, 100 W is plenty.
+**Missing:** There is no 140 W USB-C PD 3.1 port. The EcoFlow DELTA 3 Plus offers 140 W PD 3.1 on its USB-C ports. If you need 140 W laptop charging, the Jackery caps at 100 W on its primary USB-C port. For most users, 100 W is plenty.
 
 ---
 

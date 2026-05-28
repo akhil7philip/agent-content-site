@@ -52,12 +52,12 @@ We ran the DELTA 3 Plus through a 72-hour home-backup simulation, smart-home int
 | Spec | EcoFlow DELTA 3 Plus | Notes |
 |------|----------------------|-------|
 | **Battery Capacity** | 1,024 Wh (LiFePO4) | Same chemistry as the $1,999 DELTA Pro 3 |
-| **AC Output** | 1,800 W continuous, 2,700 W X-Boost surge | X-Boost handles resistive loads above rating |
+| **AC Output** | 1,800 W continuous, 3,600 W surge | X-Boost handles resistive loads above rating |
 | **AC Charge Speed** | 0 → 100 % in 56 minutes | 1,800 W internal charger |
 | **Solar Input** | 500 W max (MPPT) | 11–60 V input range |
 | **Cycle Life** | 4,000+ cycles to 80 % capacity | 10+ year lifespan at moderate use |
 | **UPS Switchover** | < 10 ms | Faster than Jackery 2000 v2 (20 ms) |
-| **Weight** | 25 lbs (11.3 kg) | Portable for camping and RV use |
+| **Weight** | 27.6 lbs (12.5 kg) | Portable for camping and RV use |
 | **Noise** | 35.8 dB at 500 W, 42.1 dB at 1,800 W | Fan-cooled; quiet mode available in app |
 | **Display** | 4.3-inch color LCD | Real-time wattage, time remaining, input/output |
 | **App** | EcoFlow iOS/Android | Smart home, scheduling, firmware OTA |
@@ -167,11 +167,11 @@ Thermal imaging after a 30-minute 1,800 W load test showed a maximum surface tem
 | Port | Spec | Tested With | Result |
 |------|------|-------------|--------|
 | **AC outlets (×4)** | 120 V, 1,800 W continuous / 2,700 W X-Boost | Fridge, heater, microwave, coffee maker | All simultaneously stable up to 1,800 W combined |
-| **USB-C (×2)** | 100 W PD each | MacBook Pro 16", Dell XPS 15 | 96 W sustained; no thermal throttling |
+| **USB-C (×2)** | 140 W PD 3.1 each | MacBook Pro 16", Dell XPS 15 | 135 W sustained; no thermal throttling |
 | **USB-A (×2)** | 18 W QC 3.0 | iPhone 15, Galaxy S24 | Full-speed charging |
 | **Car outlet (×1)** | 12 V, 10 A | Portable cooler, air pump | 120 W sustained |
 
-**Advantage over Jackery 2000 v2:** One extra AC outlet (4 vs 3). For multi-device setups, this matters. You can run a fridge, a fan, a laptop charger, and a lamp simultaneously without a power strip.
+**Advantage over Jackery 2000 v2:** Two extra AC outlets (4 vs 2). For multi-device setups, this matters. You can run a fridge, a fan, a laptop charger, and a lamp simultaneously without a power strip.
 
 ---
 
@@ -187,7 +187,7 @@ Thermal imaging after a 30-minute 1,800 W load test showed a maximum surface tem
 | **App quality** | **Best in class** | Good | Basic | Basic |
 | **Smart home** | **Alexa, Google, HomeKit** | None | None | None |
 | **Noise at 500 W** | 35.8 dB (29.7 dB quiet mode) | 32.1 dB | **28.6 dB** | 38.2 dB |
-| **Weight** | 25 lbs | **23.9 lbs** | 39.5 lbs | 46 lbs |
+| **Weight** | 27.6 lbs | **23.9 lbs** | 39.5 lbs | 46 lbs |
 
 **Value verdict:** The DELTA 3 Plus is the best-value smart power station under $700. You pay a $150 premium over the Jackery 2000 v2 for half the capacity, but you gain the best app ecosystem, smart-home integration, faster charging, and 4 AC outlets. If you prioritize software and integration over raw capacity, the DELTA 3 Plus is the right pick.
 
@@ -204,7 +204,7 @@ Because EcoFlow named these so similarly, here is a direct comparison:
 | **Price** | $649 | $1,999 | $1,350 more |
 | **Capacity** | 1,024 Wh | 4,096 Wh | 4× the battery |
 | **Output** | 1,800 W | 4,000 W | 2.2× the power |
-| **Weight** | 25 lbs | 114 lbs | 89 lbs heavier |
+| **Weight** | 27.6 lbs | 114 lbs | 86.4 lbs heavier |
 | **Charge time** | 56 min | 1.5 hrs | Slower despite bigger charger |
 | **Voltage** | 120 V only | 120 V / 240 V dual | Pro 3 runs 240 V appliances |
 | **Expandable** | No | Yes, to 48 kWh | Pro 3 scales to whole-home backup |
