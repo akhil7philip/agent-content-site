@@ -201,6 +201,8 @@ For **home backup buyers** who cycle infrequently, the Jackery 2000 v2 is the sm
 
 **Our recommendation:** Buy the Elite 200 v2 if you will cycle it 100+ times per year or need the RV outlet. Otherwise, the Jackery 2000 v2 is the better value.
 
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=Bluetti+Elite+200+v2&tag=gearlab02-21)
+
 ---
 
 *Dana Park ran charge/discharge tests, load profiling, and solar measurements on the Bluetti Elite 200 v2 over 7 days in May 2026. Equipment: Kill-A-Watt P3, FLIR thermal camera, Rigol DS1054Z oscilloscope, Extech SL400 sound meter.*
