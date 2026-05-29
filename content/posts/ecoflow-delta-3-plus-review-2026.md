@@ -43,7 +43,7 @@ We ran the DELTA 3 Plus through a 72-hour home-backup simulation, smart-home int
 
 **Bottom line:** If you want the best app experience, smart-home integration, and the fastest charging under $700, the DELTA 3 Plus is the pick. If you need 2 kWh of capacity or whisper-quiet operation under 30 dB, get the Jackery Explorer 2000 v2 instead.
 
-[Check Current Price on Amazon →](#)
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=EcoFlow+DELTA+3+Plus&tag=gearlab02-21)
 
 ---
 
@@ -239,7 +239,7 @@ The EcoFlow DELTA 3 Plus is the smartest 1 kWh power station on the market. It d
 
 At $649, it is a fair price for what you get — especially if you value the convenience of scheduled charging, voice control, and firmware updates that add features over time. For tech-forward buyers who want a power station that feels like a modern smart device, the DELTA 3 Plus is the obvious choice.
 
-[Check Current Price on Amazon →](#)
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=EcoFlow+DELTA+3+Plus&tag=gearlab02-21)
 
 ---
 

@@ -297,7 +297,7 @@ For **first-time buyers**, this is the entry point we recommend. Try the categor
 
 **Our recommendation:** Buy the ALLWEI 1200W if price is your primary constraint and your loads are not sensitive to brief power interruptions. If you need seamless UPS backup, faster charging, or daily cycling, spend more on the Anker or Jackery.
 
-[Check Current Price on Amazon →](#)
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=ALLWEI+1200W+portable+power+station&tag=gearlab02-21)
 
 ---
 

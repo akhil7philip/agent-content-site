@@ -42,7 +42,7 @@ We ran it for 72 hours straight through load steps, thermal imaging, solar charg
 
 **Bottom line:** If you need 2 kWh of quiet, reliable backup for home or CPAP use, this is the best option under $1,000. If you want expandable capacity or the absolute fastest charging, look at the EcoFlow DELTA 3 Plus or the DELTA Pro 3 instead.
 
-[Check Current Price on Amazon →](#)
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=Jackery+Explorer+2000+v2&tag=gearlab02-21)
 
 ---
 
@@ -206,7 +206,7 @@ The Jackery Explorer 2000 v2 is the quietest, lightest, and best-value 2 kWh pow
 
 If you have $799 and you want a power station that will run your fridge overnight, keep your CPAP running for 28 hours, and sit silently in the corner of your bedroom without keeping you awake, this is the one.
 
-[Check Current Price on Amazon →](#)
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=Jackery+Explorer+2000+v2&tag=gearlab02-21)
 
 ---
 

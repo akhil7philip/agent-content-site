@@ -63,7 +63,7 @@ The Anker SOLIX C1000 Gen 2 is the most complete power station released in 2026.
 ### Who Should Buy It:
 **Most people.** The C1000 Gen 2 covers 90% of portable power use cases — camping, home backup, RV, remote work — at a price that frequently dips below $500 on Amazon. Unless you specifically need 2000+ Wh of capacity, this is the power station to get.
 
-[Check Current Price on Amazon →](#)
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=Anker+SOLIX+C1000+Gen+2&tag=gearlab02-21)
 
 ---
 
@@ -91,7 +91,7 @@ The Jackery Explorer 2000 v2 is the most significant product Jackery has release
 ### Who Should Buy It:
 Home backup buyers who need enough capacity to run a fridge overnight, CPAP users who need a silent power station at the bedside, and RV owners who want a high-capacity station that one person can carry. If noise is a dealbreaker with your current power station, this is the solution.
 
-[Check Current Price on Amazon →](#)
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=Jackery+Explorer+2000+v2&tag=gearlab02-21)
 
 ---
 
@@ -122,7 +122,7 @@ Budget-conscious buyers who want 1000Wh without spending $700+. Garage and works
 
 > **⚡ Pro Tip:** Watch for Amazon coupons — this routinely drops to $339, making it an absolute steal.
 
-[Check Current Price on Amazon →](#)
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=ALLWEI+1200W+portable+power+station&tag=gearlab02-21)
 
 ---
 
@@ -150,7 +150,7 @@ The EcoFlow DELTA 3 Plus hit its stride in 2026 with price drops and firmware up
 ### Who Should Buy It:
 Buyers who want the most polished software experience and smart home integration with their power station. The DELTA 3 Plus is the only power station in this class that genuinely feels like a smart device rather than a battery with ports.
 
-[Check Current Price on Amazon →](#)
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=EcoFlow+DELTA+3+Plus&tag=gearlab02-21)
 
 ---
 
@@ -178,7 +178,7 @@ The Bluetti Elite 200 v2 is the premium option for buyers who want maximum capac
 ### Who Should Buy It:
 Buyers who view a power station as a long-term investment and want the highest cycle count available. If you plan to use your power station daily for a decade, the Elite 200 v2's 6,000-cycle rating makes the higher upfront cost cheaper per cycle than anything else on the market.
 
-[Check Current Price on Amazon →](#)
+[Check Current Price on Amazon →](https://www.amazon.com/s?k=Bluetti+Elite+200+v2&tag=gearlab02-21)
 
 ---
 
